@@ -83,9 +83,9 @@ export default {
   data() {
     return {
       team: [
-        { name: 'Kovács János', role: 'Vezérigazgató', image: 'https://profile-images.xing.com/images/4f6d0b25c3f51a5a9005a77046e27041-1/rebecca-levesque.256x256.jpg' },
-        { name: 'Nagy Éva', role: 'Műszaki Igazgató', image: 'https://media.licdn.com/dms/image/v2/D5603AQH7VGj19tP_Cg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1703192775109?e=2147483647&v=beta&t=ZeBpghlABGflHA5etDZ_-Hh3tlQZZYIhOofsQBV9DDo' },
+        { name: 'Nagy Éva', role: 'Vezérigazgató', image: 'https://profile-images.xing.com/images/4f6d0b25c3f51a5a9005a77046e27041-1/rebecca-levesque.256x256.jpg' },
         { name: 'Szabó Péter', role: 'Vezető Mérnök', image: 'https://profile-images.xing.com/images/8591fd5286ad9bf3a63328bb0d477277-4/rick-rainer-ludwig.256x256.jpg' },
+        { name: 'Kiss Tamás', role: 'Műszaki Igazgató', image: 'https://media.licdn.com/dms/image/v2/D5603AQH7VGj19tP_Cg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1703192775109?e=2147483647&v=beta&t=ZeBpghlABGflHA5etDZ_-Hh3tlQZZYIhOofsQBV9DDo' },
       ],
       features: [
         { icon: '🌱', title: 'Fenntartható', description: 'Környezetbarát megoldások egy jobb jövőért' },
